@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for Data Science study materials
+Repository for Data Science study materials (linked with RStudio)
